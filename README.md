@@ -86,7 +86,3 @@ This project implements and analyzes strategies for constructing genealogy trees
 ## Conclusion
 
 This project provides a comprehensive framework for analyzing relationships among sequences, constructing genealogy trees, and evaluating performance across strategies. It offers practical insights into sequence similarity and hierarchical data modeling.
-
---- 
-
-Feel free to adapt this based on specific requirements or additional findings!
